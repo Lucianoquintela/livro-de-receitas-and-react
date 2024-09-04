@@ -1,2 +1,2 @@
-# livro-de-receitas-com-react
+# livro-de-receitas-and-react
 Created with CodeSandbox
