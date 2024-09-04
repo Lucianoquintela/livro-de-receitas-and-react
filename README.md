@@ -6,7 +6,7 @@ Bem-vindo ao Receitas App! Este é um projeto de front-end criado com React, hos
 
 Aqui está uma visão geral do projeto para desktop:
 
-![Visão Geral do Projeto](/src/images/design.jpg)
+![Visão Geral do Projeto](/src/images/design.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
